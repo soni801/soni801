@@ -22,7 +22,7 @@ projects, you MUST follow this code style:
   - Other characters MAY be used if it is crucial for the functionality of the project
 - You MUST use en_US in both code and comments
   - e.g. *color* as opposed to *colour*
-- Profanity SHOULD not be used unless crucial for the functionality of the project
+- Profanity MUST NOT be used unless crucial for the functionality of the project
 
 ### Code style
 
