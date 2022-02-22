@@ -2,15 +2,15 @@
 
 ---
 
-- 👀 I’m interested in UX/UI and general frontend programming
-- 🌐 I'm currently working on web development
-- 💻 I want to work on UX and desktop applications
+- 👀 I’m interested in UX/UI and general full-stack development
+- 🌐 I'm currently working on web and native desktop apps
+- 💻 I want to work on design, UX and API development
 
 ### 📞 Get in touch
 
 ---
 
-- 📧 Mail: mail.soni801@gmail.com
+- 📧 Mail: soni@yessness.com
 - 🎮 Discord: Soni#7454
 
 ---
