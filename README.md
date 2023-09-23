@@ -1,17 +1,19 @@
 ### 👋 Hi, I'm Soni :)
 
+Check out my portfolio: [soni.recalstudios.net](https://soni.recalstudios.net)
+
 ---
 
-- 👀 I’m interested in UX/UI and general full-stack development
-- 🌐 I'm currently working on web and native desktop apps
-- 💻 I want to work on design, UX and API development
+- 👀 I’m interested in UX/UI and full-stack development
+- 🌐 I'm currently working on dynamic websites and web apps
+- 💻 I want to work with web design, UX and API development
+
+---
 
 ### 📞 Get in touch
 
----
-
-- 📧 Mail: soni@yessness.com
-- 🎮 Discord: Soni#7454
+- 📧 Mail: soni@recalstudios.net
+- 🎮 Discord: *soni801*
 
 ---
 
